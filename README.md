@@ -98,12 +98,12 @@ Let's trying running it.
 
 ## Listar
 <p align="left">
-  <img src="img/Listar.png" alt="Listar contenedores" width="800" height="150" />
+  <img src="img/Listar.png" alt="Listar contenedores" width="800" height="100" />
 </p>
 
 ## Correr contenedor
 <p align="left">
-  <img src="img/Run.png" alt="Correr contenedor" width="800" height="150" />
+  <img src="img/Run.png" alt="Correr contenedor" width="800" height="100" />
 </p>
 
 ## Juego Corriendo
