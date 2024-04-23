@@ -93,17 +93,17 @@ Let's trying running it.
 ## Evidencia 
 ## Descarga 
 <p align="left">
-  <img src="img/Pull.png" alt="Descarga contenedor" width="400" height="300" />
+  <img src="img/Pull.png" alt="Descarga contenedor" width="500" height="400" />
 </p>
 
 ## Listar
 <p align="left">
-  <img src="img/Listar.jpg" alt="Listar contenedores" width="400" height="300" />
+  <img src="img/Listar.png" alt="Listar contenedores" width="500" height="400" />
 </p>
 
 ## Correr contenedor
 <p align="left">
-  <img src="img/Run.jpg" alt="Correr contenedor" width="400" height="300" />
+  <img src="img/Run.png" alt="Correr contenedor" width="400" height="300" />
 </p>
 
 ## Juego Corriendo
