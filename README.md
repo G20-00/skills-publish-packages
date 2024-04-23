@@ -93,7 +93,7 @@ Let's trying running it.
 ## Evidencia 
 ## Descarga 
 <p align="left">
-  <img src="img/Pull.png" alt="Descarga contenedor" width="500" height="400" />
+  <img src="img/Pull.png" alt="Descarga contenedor" width="800" height="200" />
 </p>
 
 ## Listar
