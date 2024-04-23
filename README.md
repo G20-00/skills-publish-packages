@@ -90,6 +90,26 @@ Let's trying running it.
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+## Evidencia 
+## Descarga 
+<p align="left">
+  <img src="img/Pull.png" alt="Descarga contenedor" width="400" height="300" />
+</p>
+
+## Listar
+<p align="left">
+  <img src="img/Listar.jpg" alt="Listar contenedores" width="400" height="300" />
+</p>
+
+## Correr contenedor
+<p align="left">
+  <img src="img/Run.jpg" alt="Correr contenedor" width="400" height="300" />
+</p>
+
+## Juego Corriendo
+<p align="left">
+  <img src="img/Juego.png" alt="Juego ganado"  width="400" height="300" />
+</p>
 
 ## Finish
 
